@@ -1,0 +1,2 @@
+# .xinnitrc
+my xinnitrc
